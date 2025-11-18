@@ -96,5 +96,6 @@ class Node {
 ```
 ## Output:
 <img width="779" height="135" alt="image" src="https://github.com/user-attachments/assets/1462a042-975d-4a0a-8fad-a81659d0443c" />
+
 ## Result:
 Thus, the Java program to perfom right rotation on linked list is implemented successfully.
